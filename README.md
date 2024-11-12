@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @connect-abdullah. Enthusiastic about exploring the dynamic world of technology and continuously expanding my skills to stay at the forefront of innovation.🌎❤️
-- 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on Front-End Projects.
+- 🌱 I’m currently expanding my skills.
+- 👨🏻‍💻 I’m looking to collaborate on Front-End Projects.
 - 📫 You can Always reach out to me through my email ( insights.abdullah@gmail.com ).
 
 <!---

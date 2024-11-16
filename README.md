@@ -24,11 +24,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=connect-abdullah&show_icons=true&theme=dark&locale=en&layout=compact" alt="connect-abdullah" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=connect-abdullah&show_icons=true&theme=dark&locale=en&hide=issues,contribs" alt="connect-abdullah" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=connect-abdullah&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="connect-abdullah" /></p>
+<br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=connect-abdullah&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D" alt="connect-abdullah" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">

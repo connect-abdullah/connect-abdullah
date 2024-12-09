@@ -30,7 +30,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=connect-abdullah&theme=dark&border_radius=2&date_format=j%20M%5B%20Y%5D" alt="connect-abdullah" /></p>
 <br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach Out To Me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mabdullahriaz2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connect.abdullah" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/pulse.abd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="connect.abdullah" height="30" width="40" /></a>  -->

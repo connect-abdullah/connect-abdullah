@@ -28,10 +28,10 @@
 	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 <p align="left"> 
-	<!-- R Icon -->
-	<a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="Rlogo" width="40" height="40"/> </a>
 	<!-- Node JS Icon -->
 	<a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="40" height="40"/> </a>
+	<!-- R Icon -->
+	<a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="Rlogo" width="40" height="40"/> </a>
 </p>
 <br>
 

@@ -35,6 +35,12 @@
 	<a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="40" height="40"/> </a>
 	<!-- R Icon -->
 	<a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="Rlogo" width="40" height="40"/> </a>
+	<!-- MongoDB Icon -->
+	<a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="Mongologo" width="40" height="40"/> </a>
+	<!-- Mocha Icon -->
+	<a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg" alt="mochalogo" width="40" height="40"/> </a>
+	<!-- Mocha Icon -->
+	<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="expresslogo" width="40" height="40"/> </a>
 </p>
 <br>
 

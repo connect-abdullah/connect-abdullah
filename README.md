@@ -4,7 +4,7 @@
 
 <br><br><br>
 <!-- About -->
-🌱 I’m currently learning **Web Development Full-Stack**
+**My Stack ?! Whatever is needed...**
 <!-- Right Coding GIF -->
 <img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -17,17 +17,18 @@
 	<!-- HTML Icon -->
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 	<!-- CSS Icon -->
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-	<!-- Git Icon -->
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
 	<!-- JavaScript Icon -->
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 	<!-- Python Icon -->
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+	<!-- TypeScript Icon -->
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="tsLogo" width="40" height="40"/> </a>
 	<!-- React Icon -->
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-   	<!-- Tailwind Icon -->
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+	<!-- MongoDB Icon -->
+	<a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="Mongologo" width="40" height="40"/> </a>
+   	
 </p>
 
 <p align="left"> 
@@ -35,14 +36,23 @@
 	<a href="https://www.w3schools.com/nodejs/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="40" height="40"/> </a>
 	<!-- R Icon -->
 	<a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="Rlogo" width="40" height="40"/> </a>
-	<!-- MongoDB Icon -->
-	<a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="Mongologo" width="40" height="40"/> </a>
+	<!-- Tailwind Icon -->
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 	<!-- Mocha Icon -->
 	<a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg" alt="mochalogo" width="40" height="40"/> </a>
 	<!-- ExpressJS Icon -->
 	<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="expresslogo" width="40" height="40"/> </a>
 	<!-- ViteJS Icon -->
 	<a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitelogo" width="40" height="40"/> </a>
+	<!-- 	React Native -->
+	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://www.ncodetechnologies.com/images/icons/react-native-icn(512x512).png" alt="reactNative" width="40" height="40"/> </a>
+</p>
+
+<p align="left"> 
+	<!-- Redis Icon -->
+	<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="RedisLogo" width="40" height="40"/> </a>
+	<!-- Git Icon -->
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 <br>
 

@@ -1,14 +1,22 @@
 <!-- ========================= -->
 <!--         HEADING          -->
 <!-- ========================= -->
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
+<h1 align="center">Hi 👋, I'm M Abdullah</h1>
 
 <br><br><br>
 
 <!-- ========================= -->
 <!--        ABOUT ME          -->
 <!-- ========================= -->
-**My Stack ?! Whatever is required...**
+<h3 align="left">My Stack?! Whatever it takes...</h3>
+
+<p align="left">
+  <strong>🧑‍💻 Full Stack Developer | 🧠 AI Engineer | 💡 Problem Solver</strong> <br>
+  Building Smart Solutions that solve real-world problems using modern web tech, cloud systems, and AI capabilities — fast, clean, & reliable.
+</p>
+
+
+
 
 <!-- Right-side GIF for coding -->
 <img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -19,7 +27,7 @@
 <!--  LANGUAGES & FRAMEWORKS  -->
 <!-- ========================= -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3 align="left">Languages & Frameworks:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 <!-- === LANGUAGES ROW 1 === -->
 <p align="left"> 

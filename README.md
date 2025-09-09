@@ -103,6 +103,10 @@
 	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
 		<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" width="40" height="40"/> 
 	</a>
+	<!-- LangChain Icon -->
+	<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain" width="40" height="40"/> 
+	</a>
 </p>
 
 <br>

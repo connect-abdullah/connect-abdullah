@@ -11,8 +11,8 @@
 <h3 align="left">My Stack?! Whatever it takes...</h3>
 
 <p align="left">
-  <strong>🧑‍💻 Full Stack Developer | 🧠 AI Engineer | 💡 Problem Solver</strong> <br>
-  Building Smart Solutions that solve real-world problems using modern web tech, cloud systems, and AI capabilities — fast, clean, & reliable.
+  <strong>Software Engineer</strong>- AI | RAG | LLM | MERN | Node.js | Supabase | JavaScript | LangChain | LangGraph <br>
+  Results-driven Full-Stack Developer with expertise in building AI-powered, scalable, and robust solutions that solve real problems and drive measurable product value. 
 </p>
 
 
